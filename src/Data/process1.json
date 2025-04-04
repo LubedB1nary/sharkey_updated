@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "icon-comercial",
+    "title": "Consultation <span class='fw-normal'>with Experts</span>",
+    "desc": "Speak with our agents to assess your needs and explore the best coverage options.",
+    "addclass": "process-single-box br-10",
+    "number": "01"
+  },
+  {
+    "icon": "icon-infomsg",
+    "title": "Policy Customization <span class='fw-normal'>Tailored for You</span>",
+    "desc": "Our specialists design a policy that fits your lifestyle and protects your assets.",
+    "addclass": "process-single-box br-10",
+    "number": "02"
+  },
+  {
+    "icon": "icon-finished",
+    "title": "Secure Coverage <span class='fw-normal'>for Peace of Mind</span>",
+    "desc": "Finalize your coverage with competitive rates and enjoy worry-free protection.",
+    "addclass": "process-single-box br-10",
+    "number": "03"
+  }
+]

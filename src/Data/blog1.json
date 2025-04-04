@@ -1,0 +1,29 @@
+[
+  {
+    "img": "/assets/images/blog/blog01.jpg",   
+    "category": "Insurance Tips",
+    "social-img": "/assets/images/blog/social-pr01.jpg", 
+    "name": "Robert Aguilar",
+    "title": "How to Safeguard Your Home Against Unexpected Risks",
+    "desc": "Learn practical tips to protect your home with comprehensive insurance coverage.",
+    "btn-title": "Read More"
+  },
+  {
+    "img": "/assets/images/blog/blog02.jpg",  
+    "category": "Auto Insurance",
+    "social-img": "/assets/images/blog/social-pr02.jpg",
+    "name": "Amy Renner",
+    "title": "Navigating the Road: Essential Auto Insurance Advice",
+    "desc": "Discover key insights into selecting the best auto insurance policy for your needs.",
+    "btn-title": "Read More"
+  },
+  {
+    "img": "/assets/images/blog/blog03.jpg",  
+    "category": "Life Insurance",
+    "social-img": "/assets/images/blog/social-pr03.jpg",
+    "name": "David Lucas",
+    "title": "Securing Your Future: Understanding Life Insurance Options",
+    "desc": "Explore the benefits of life insurance and how it can secure your family's future.",
+    "btn-title": "Read More"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/testimonial/01.jpg",
+    "subTitle": "Homeowner",
+    "title": "John Smith",
+    "desc": "Sharkey Insurance provided me with outstanding service and the perfect coverage to protect my home and family. Truly exceptional!"
+  },
+  {
+    "img": "/assets/images/testimonial/01.jpg",
+    "subTitle": "Small Business Owner",
+    "title": "Emily Johnson",
+    "desc": "I trust Sharkey Insurance for my business. Their tailored policies and responsive support have made all the difference. I've never felt more secure."
+  },
+  {
+    "img": "/assets/images/testimonial/01.jpg",
+    "subTitle": "Driver",
+    "title": "Michael Brown",
+    "desc": "Thanks to Sharkey Insurance, I feel secure on the road. Their auto insurance policy is comprehensive and affordable."
+  }
+]

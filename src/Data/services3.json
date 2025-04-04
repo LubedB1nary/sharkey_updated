@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "icon-home",
+    "title": "Home Insurance",
+    "desc": "Protect your home with tailored coverage options and exceptional support for any unforeseen events.",
+    "number": "01.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "icon-auto",
+    "title": "Auto Insurance",
+    "desc": "Drive with confidence knowing you’re covered by our comprehensive auto insurance policies.",
+    "number": "02.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "icon-life",
+    "title": "Life Insurance",
+    "desc": "Secure your family's future with personalized life insurance solutions designed for peace of mind.",
+    "number": "03.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "icon-business",
+    "title": "Business Insurance",
+    "desc": "Safeguard your business with comprehensive coverage and expert risk management strategies.",
+    "number": "04.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "icon-claims",
+    "title": "Claims Assistance",
+    "desc": "Experience hassle-free claims processing and exceptional support when you need it most.",
+    "number": "05.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  },
+  {
+    "icon": "icon-risk-assessment",
+    "title": "Risk Assessment",
+    "desc": "Receive expert advice on mitigating risks with our in-depth risk assessment services.",
+    "number": "06.",
+    "btnText": "View Details",
+    "btnLink": "/service/service-details"
+  }
+]
