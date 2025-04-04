@@ -1,14 +1,14 @@
 [
   {
-    "img": "/assets/images/team/team01.jpg",  
+    "img": "/assets/images/team/team01.jpg",
     "title": "Sandra D. Rainey",
-    "desc": "Executive officer",
+    "desc": "Chief Underwriting Officer",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
   },
   {
-    "img": "/assets/images/team/team02.jpg",  
+    "img": "/assets/images/team/team02.jpg",
     "title": "Melia T. Brake",
     "desc": "HR Manager",
     "linkedin": "#",
@@ -16,51 +16,51 @@
     "facebook": "#"
   },
   {
-    "img": "/assets/images/team/team03.jpg",  
+    "img": "/assets/images/team/team03.jpg",
     "title": "Donna L. Aguilar",
     "desc": "CEO & Founder",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
-  },  
+  },
   {
-    "img": "/assets/images/team/team04.jpg",  
+    "img": "/assets/images/team/team04.jpg",
     "title": "Linda F. Collins",
-    "desc": "SR Marketer",
+    "desc": "Senior Insurance Marketer",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
   },
   {
-    "img": "/assets/images/team/team05.jpg",  
+    "img": "/assets/images/team/team05.jpg",
     "title": "Sandra D. Rainey",
-    "desc": "SR. Accountant",
+    "desc": "Senior Accountant",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
   },
   {
-    "img": "/assets/images/team/team06.jpg",  
+    "img": "/assets/images/team/team06.jpg",
     "title": "Nancy G. Johnson",
-    "desc": "Digital Marketer",
+    "desc": "Digital Marketing Specialist",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
   },
   {
-    "img": "/assets/images/team/team07.jpg",  
+    "img": "/assets/images/team/team07.jpg",
     "title": "Raymond S. Shelby",
-    "desc": "Executive officer",
+    "desc": "Chief Operating Officer",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
-  },  
+  },
   {
-    "img": "/assets/images/team/team08.jpg",  
+    "img": "/assets/images/team/team08.jpg",
     "title": "Debbie R. Brewer",
     "desc": "Sales Executive",
     "linkedin": "#",
     "twitter": "#",
     "facebook": "#"
-  }  
+  }
 ]

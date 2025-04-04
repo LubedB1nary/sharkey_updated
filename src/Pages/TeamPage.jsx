@@ -9,10 +9,10 @@ const TeamPage = () => {
             <BreadCumb
                 bg="/assets/images/bg-img/breadcrumb.jpg"
                 Title="Our Team"
-                Content="Completely restore extensive materials interactive solutions. <br> Progressively myocardinate viral paradigms"
-            ></BreadCumb>   
-            <Team3></Team3>   
-            <About4></About4>  
+                Content="Meet the dedicated professionals at Sharkey Insurance who work tirelessly to protect your future. <br> Discover the expertise and commitment behind our success."
+            ></BreadCumb>
+            <Team3></Team3>
+            <About4></About4>
             <Nwesletter addclass="newsletter-section bg-image3 mt--75"></Nwesletter>
         </div>
     );
